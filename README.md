@@ -18,7 +18,7 @@ SLACK_HOOK_URL=https://hooks.slack.com/services/TOKEN \
   DB_HOST=localhost \
   DB_USER=username \
   DB_PORT=5432
-  DB_PASSWORD=dbpass \
+  DB_PASS=dbpass \
   DB_DATABASE=catarse_development \
   LISTEN_BUCKET=catartico_events \
   catartico
@@ -51,8 +51,3 @@ And on slack the message:
 ![](https://s3.amazonaws.com/catarse.files/Captura+de+Tela+2015-12-10+às+6.39.14+PM.png)
 
 o/
-
-
-
-
-
